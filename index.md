@@ -15,9 +15,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 *   Master in Software Engineering, 2022-2025 (expected)<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-*   Bachelor in Software Engineering, 2018-2022
+*   Bachelor in Software Engineering, 2018-2022<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-*   Bachelor in Economics (_Second Degree_), 2019-2022
+*   Bachelor in Economics (_Second Degree_), 2019-2022<br>
     [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header. -->
