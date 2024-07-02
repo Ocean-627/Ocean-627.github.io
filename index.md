@@ -25,8 +25,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Journal Articles
 
-1.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
-**Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding
+1.  GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection<br>
+Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding#
 
 ## Conference Proceedings
 
