@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Education
 
-*   Master in Software Engineering, 2022-2025 (expected)</br>
+*   Master in Software Engineering, 2022-2025 (expected)<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Bachelor in Software Engineering, 2018-2022
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
@@ -22,6 +22,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header. -->
 
+## Journal Articles
+
+1.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
+**Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding
+
+## Conference Proceedings
+
+1.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
+**Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding
+
+_* Equal Contribution, # Corresponding Author_
 
 There should be whitespace between paragraphs.
 
