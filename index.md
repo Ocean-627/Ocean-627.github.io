@@ -7,7 +7,7 @@ layout: default
 I am currently a Master student (from fall, 2022) in School of Software, Tsinghua University, under the supervision of Prof. [Guiguang Ding](https://www.thss.tsinghua.edu.cn/en/faculty/guiguangding.htm).
 <!-- My research interests lie in deep and scientific learning, especially science-inspired model architectures. My research goal is to model this ever-changing and non-stationary world through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. -->
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 [Google Scholar](https://scholar.google.com/citations?user=QuzdK0MAAAAJ)
 
@@ -26,15 +26,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 ## Journal Articles
 
 1.  GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection<br>
-Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding#
-
+Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding#<br>
 [Neurocomputing 2023](https://www.sciencedirect.com/journal/neurocomputing) / [PDF](http://ise.thss.tsinghua.edu.cn/MIG/2023-1.pdf)
 
 ## Conference Proceedings
 
 1.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
-**Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding
-
+**Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding<br>
 [IJCAI 2024](https://ijcai24.org/)
 
 _* Equal Contribution, # Corresponding Author_
