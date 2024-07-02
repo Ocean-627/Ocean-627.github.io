@@ -41,6 +41,11 @@ Mengyao Lyu**\***, Tianxiang Hao**\***, **Xinhao Xu**, Hui Chen#, Zijia Lin, Jun
 
 _* Equal Contribution, # Corresponding Author_
 
+## Selected Awards
+*   Good graduates of Tsinghua (清华大学优良毕业生, Top 10%), 2022
+*   Huawei Scholarship (华为奖学金, Top 5%), 2021
+*   Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2020, 2021, 2023
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
