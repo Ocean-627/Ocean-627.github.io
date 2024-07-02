@@ -9,7 +9,7 @@ I am currently a Master student (from fall, 2022) in School of Software, Tsinghu
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Google Scholar](https://scholar.google.com/citations?user=QuzdK0MAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=QuzdK0MAAAAJ) / [Github](https://github.com/Ocean-627)
 
 ## Education
 
