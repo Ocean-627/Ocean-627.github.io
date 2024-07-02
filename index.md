@@ -2,9 +2,14 @@
 layout: default
 ---
 
+## About Me
+
+I am currently a Master student (from fall, 2022) in School of Software, Tsinghua University, under the supervision of Prof. Guiguang Ding.
+<!-- My research interests lie in deep and scientific learning, especially science-inspired model architectures. My research goal is to model this ever-changing and non-stationary world through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. -->
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Google Scholar](https://scholar.google.com/citations?user=QuzdK0MAAAAJ)
 
 There should be whitespace between paragraphs.
 
