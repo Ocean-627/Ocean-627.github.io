@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a Master student (from fall, 2022) in School of Software, Tsinghua University, under the supervision of Prof. [Guiguang Ding](https://www.thss.tsinghua.edu.cn/en/faculty/guiguangding.htm).
+I am currently a Master student (from fall, 2022) in [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Guiguang Ding](https://www.thss.tsinghua.edu.cn/en/faculty/guiguangding.htm).
 <!-- My research interests lie in deep and scientific learning, especially science-inspired model architectures. My research goal is to model this ever-changing and non-stationary world through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. -->
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
