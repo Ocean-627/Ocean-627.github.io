@@ -13,10 +13,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Education
 
-*   Master in in Software Engineering, 2022-2025 (expected)
+*   Master in Software Engineering, 2022-2025 (expected)
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Bachelor in Software Engineering, 2018-2022
+    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+*   Bachelor in Economics (_Second Degree_), 2019-2022
+    [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+<!-- *   This is an unordered list following a header.
+*   This is an unordered list following a header. -->
 
 
 There should be whitespace between paragraphs.
