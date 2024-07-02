@@ -11,6 +11,14 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Google Scholar](https://scholar.google.com/citations?user=QuzdK0MAAAAJ)
 
+## Education
+
+*   Master in in Software Engineering, 2022-2025 (expected)
+    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
