@@ -13,7 +13,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Education
 
-*   Master in Software Engineering, 2022-2025 (expected)
+*   Master in Software Engineering, 2022-2025 (expected)</br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Bachelor in Software Engineering, 2018-2022
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
