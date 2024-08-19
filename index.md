@@ -33,11 +33,11 @@ Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguan
 
 1. Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence<br>
 Mengyao Lyu**\***, Tianxiang Hao**\***, **Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
-[ECCV 2024](https://eccv2024.ecva.net/)
+[ECCV 2024](https://eccv2024.ecva.net/)  / [PDF](https://arxiv.org/pdf/2407.18899)
 
 2.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
 **Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding<br>
-[IJCAI 2024](https://ijcai24.org/)
+[IJCAI 2024](https://ijcai24.org/)  / [PDF](https://www.ijcai.org/proceedings/2024/0728.pdf) / [Slides](/assets/doc/IJCAI24/slides.pdf) / [Poster](/assets/doc/IJCAI24/poster.pdf)
 
 _* Equal Contribution, # Corresponding Author_
 
