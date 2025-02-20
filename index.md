@@ -18,8 +18,8 @@ I am currently a Master student (from fall, 2022) in [School of Software](https:
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Bachelor in Software Engineering, 2018-2022<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-*   Bachelor in Economics (_Second Degree_), 2019-2022<br>
-    [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+<!-- *   Bachelor in Economics (_Second Degree_), 2019-2022<br>
+    [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) -->
 
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header. -->
@@ -44,7 +44,7 @@ _* Equal Contribution, # Corresponding Author_
 
 ## Selected Awards
 *   Good graduates of Tsinghua (清华大学优良毕业生, Top 10%), 2022
-*   Huawei Scholarship (华为奖学金, Top 5%), 2021
+<!-- *   Huawei Scholarship (华为奖学金, Top 5%), 2021 -->
 *   Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2020, 2021, 2023
 
 <!-- There should be whitespace between paragraphs.
