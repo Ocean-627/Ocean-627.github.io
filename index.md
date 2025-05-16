@@ -34,7 +34,7 @@ Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguan
 
 1. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
 **Xinhao Xu**, Hui Chen#, Mengyao Lyu, Sicheng Zhao, Yizhe Xiong, Zijia Lin, Jungong Han, Guiguang Ding<br>
-[NAACL 2025](https://2025.naacl.org/)  / [PDF](https://aclanthology.org/2025.naacl-long.75.pdf)
+[NAACL 2025](https://2025.naacl.org/)  / [PDF](https://aclanthology.org/2025.naacl-long.75.pdf) / [Slides](/assets/doc/NAACL25/slides.pdf)
 
 2. Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence<br>
 Mengyao Lyu**\***, Tianxiang Hao**\***, **Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
