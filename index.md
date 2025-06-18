@@ -33,7 +33,7 @@ Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguan
 ## Conference Proceedings
 
 1. Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method<br>
-**Xinhao Xu**, Jiaxin Li, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding<br>
+**Xinhao Xu\***, Jiaxin Li\*, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding<br>
 [ACL 2025](https://2025.aclweb.org/) 
 
 2. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
@@ -53,6 +53,7 @@ _* Equal Contribution, # Corresponding Author_
 ## Selected Awards
 *   Good graduates of Tsinghua (清华大学优良毕业生, Top 10%), 2022
 <!-- *   Huawei Scholarship (华为奖学金, Top 5%), 2021 -->
+*   Outstanding Graduates of School of Software, Tsinghua University (清华大学软件学院优秀毕业生, Top 10%), 2022, 2025
 *   Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2020, 2021, 2023, 2024
 
 <!-- There should be whitespace between paragraphs.
