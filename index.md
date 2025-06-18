@@ -33,7 +33,7 @@ Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguan
 ## Conference Proceedings
 
 1. Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method<br>
-**Xinhao Xu\***, Jiaxin Li\*, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding<br>
+**Xinhao Xu\***, Jiaxin Li\*, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
 [ACL 2025](https://2025.aclweb.org/) 
 
 2. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
