@@ -13,7 +13,8 @@ I am currently a Master student (from fall, 2022) in [School of Software](https:
 <!-- / [Github](https://github.com/Ocean-627) -->
 
 ## Education
-
+*   PhD in Software Engineering, 2025-2029 (expected)<br>
+    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Master in Software Engineering, 2022-2025 (expected)<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Bachelor in Software Engineering, 2018-2022<br>
