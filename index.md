@@ -34,25 +34,33 @@ layout: default
 
 ## Journal Articles
 
-1.  GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection<br>
+1. TCFMAD: Tri-Consistency Foundation Model-Based Few-Shot Manufacturing Anomaly Detection<br>
+Junjie Ke, Sicheng Zhao, **Xinhao Xu**, Kaifan Zhang, Yizhe Xiong, Guodao Zhang, Fei Ma, Lihuo He, Hui Chen, Guiguang Ding, Xinbo Gao<br>
+[IEEE Transactions on Automation Science and Engineering 2026](https://doi.org/10.1109/TASE.2026.3732182) / [PDF](/assets/doc/TASE26/TCFMAD.pdf)
+
+2. GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection<br>
 Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding#<br>
 [Neurocomputing 2023](https://www.sciencedirect.com/journal/neurocomputing) / [PDF](http://ise.thss.tsinghua.edu.cn/MIG/2023-1.pdf)
 
 ## Conference Proceedings
 
-1. Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method<br>
+1. Neutralizing Token Aggregation via Information Augmentation for Efficient Test-Time Adaptation<br>
+Yizhe Xiong**\***, Zihan Zhou**\***, Yiwen Liang**\***, Hui Chen, Zijia Lin, **Xinhao Xu**, Tianxiang Hao, Fan Zhang, Jungong Han, Guiguang Ding<br>
+[ECCV 2026](https://eccv.ecva.net/virtual/2026/poster/4804) / [PDF](/assets/doc/ECCV26/paper.pdf)
+
+2. Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method<br>
 **Xinhao Xu\***, Jiaxin Li\*, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
 [ACL 2025](https://2025.aclweb.org/) 
 
-2. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
+3. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
 **Xinhao Xu**, Hui Chen#, Mengyao Lyu, Sicheng Zhao, Yizhe Xiong, Zijia Lin, Jungong Han, Guiguang Ding<br>
 [NAACL 2025](https://2025.naacl.org/)  / [PDF](https://aclanthology.org/2025.naacl-long.75.pdf) / [Slides](/assets/doc/NAACL25/slides.pdf)
 
-3. Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence<br>
+4. Learn from the Learnt: Source-Free Active Domain Adaptation via Contrastive Sampling and Visual Persistence<br>
 Mengyao Lyu**\***, Tianxiang Hao**\***, **Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
 [ECCV 2024](https://eccv2024.ecva.net/)  / [PDF](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00073.pdf)
 
-4.  TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
+5. TaD: A Plug-and-Play Task-Aware Decoding Method to Better Adapt LLMs on Downstream Tasks<br>
 **Xinhao Xu**, Hui Chen#, Zijia Lin, Jungong Han, Lixing Gong, Guoxin Wang, Yongjun Bao, Guiguang Ding<br>
 [IJCAI 2024](https://ijcai24.org/)  / [PDF](https://www.ijcai.org/proceedings/2024/0728.pdf) / [Slides](/assets/doc/IJCAI24/slides.pdf) / [Poster](/assets/doc/IJCAI24/poster.pdf)
 
