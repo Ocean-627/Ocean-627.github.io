@@ -31,8 +31,9 @@ layout: default
 
 ## Experience
 
-*   Research Intern<br>
-    Tencent
+*   Research Intern, Tencent Hunyuan<br>
+    Pre-training Data Curation and Strategy<br>
+    May 2026–Present, Beijing, China
 
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header. -->
