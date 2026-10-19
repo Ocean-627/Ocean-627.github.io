@@ -29,6 +29,11 @@ layout: default
 <!-- *   Bachelor in Economics (_Second Degree_), 2019-2022<br>
     [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) -->
 
+## Experience
+
+*   Research Intern<br>
+    Tencent
+
 <!-- *   This is an unordered list following a header.
 *   This is an unordered list following a header. -->
 
@@ -36,7 +41,7 @@ layout: default
 
 1. TCFMAD: Tri-Consistency Foundation Model-Based Few-Shot Manufacturing Anomaly Detection<br>
 Junjie Ke, Sicheng Zhao, **Xinhao Xu**, Kaifan Zhang, Yizhe Xiong, Guodao Zhang, Fei Ma, Lihuo He, Hui Chen, Guiguang Ding, Xinbo Gao<br>
-[IEEE Transactions on Automation Science and Engineering 2026](https://doi.org/10.1109/TASE.2026.3732182) / [PDF](/assets/doc/TASE26/TCFMAD.pdf)
+[TASE 2026](https://doi.org/10.1109/TASE.2026.3732182) / [PDF](/assets/doc/TASE26/TCFMAD.pdf)
 
 2. GPro3D: Deriving 3D BBox from ground plane in monocular 3D object detection<br>
 Fan Yang**\***, **Xinhao Xu\***, Hui Chen, Yuchen Guo, Yuwei He, Kai Ni, Guiguang Ding#<br>
@@ -50,7 +55,7 @@ Yizhe Xiong**\***, Zihan Zhou**\***, Yiwen Liang**\***, Hui Chen, Zijia Lin, **X
 
 2. Extending LLM Context Window with Adaptive Grouped Positional Encoding: A Training-Free Method<br>
 **Xinhao Xu\***, Jiaxin Li\*, Hui Chen#, Zijia Lin, Jungong Han, Guiguang Ding#<br>
-[ACL 2025](https://2025.aclweb.org/) 
+[ACL 2025](https://2025.aclweb.org/) / [PDF](/assets/doc/ACL25/paper.pdf) / [Slides](/assets/doc/ACL25/slides.pdf)
 
 3. Mitigating Hallucinations in Multi-modal Large Language Models via Image Token Attention-Guided Decoding<br>
 **Xinhao Xu**, Hui Chen#, Mengyao Lyu, Sicheng Zhao, Yizhe Xiong, Zijia Lin, Jungong Han, Guiguang Ding<br>
