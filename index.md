@@ -31,8 +31,7 @@ layout: default
 
 ## Experience
 
-*   Research Intern, Tencent Hunyuan<br>
-    Pre-training Data Curation and Strategy<br>
+*   Research Intern at [Tencent Hunyuan](https://hunyuan.tencent.com/), on Pre-training Data Curation and Strategy<br>
     May 2026–Present, Beijing, China
 
 <!-- *   This is an unordered list following a header.
