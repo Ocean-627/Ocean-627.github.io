@@ -23,11 +23,14 @@ layout: default
 *   PhD in Software Engineering, 2025-2029 (expected)<br>
     [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
 *   Master in Software Engineering, 2022-2025<br>
-    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
+    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<br>
+    GPA: 3.96/4.0
 *   Bachelor in Software Engineering, 2018-2022<br>
-    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)
-<!-- *   Bachelor in Economics (_Second Degree_), 2019-2022<br>
-    [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) -->
+    [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<br>
+    GPA: 3.80/4.0, Rank: 9/92
+*   Bachelor in Economics (_Second Degree_), 2019-2022<br>
+    [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<br>
+    GPA: 3.85/4.0
 
 ## Experience
 
