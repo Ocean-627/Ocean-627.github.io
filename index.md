@@ -4,8 +4,15 @@ layout: default
 
 ## About Me
 
-I am currently a Master student (from fall, 2022) in [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Guiguang Ding](https://www.thss.tsinghua.edu.cn/en/faculty/guiguangding.htm).
-<!-- My research interests lie in deep and scientific learning, especially science-inspired model architectures. My research goal is to model this ever-changing and non-stationary world through scientific and interpretable deep models. Besides, I also devote myself to promoting research to valuable real-world applications. -->
+🔭 I'm currently a PhD student (since Fall 2025) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/index.htm), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Guiguang Ding](https://www.thss.tsinghua.edu.cn/en/faculty/guiguangding.htm).
+
+📘 I received both my Master's and Bachelor's degrees in Software Engineering from Tsinghua University.
+
+✨ My research interests lie broadly in deep learning, with a particular focus on large language models, multimodal learning, and domain adaptation. I aim to develop efficient and reliable methods for adapting and decoding foundation models.
+
+💻 I am also passionate about translating research into valuable real-world applications.
+
+❤️ I'm lucky to have my love, Ann Mao, in my life.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
