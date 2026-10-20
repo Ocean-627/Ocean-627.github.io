@@ -12,7 +12,7 @@ layout: default
 
 💻 I am also passionate about translating research into valuable real-world applications.
 
-❤️ I'm lucky to have my love, Ann Mao, in my life.
+❤️ I'm lucky to have my love, Ann, in my life.
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
